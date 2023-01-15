@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rasoi-reactApp/static/css/main.7ae601fe.css",
+    "main.js": "/Rasoi-reactApp/static/js/main.ce651db2.js",
+    "static/js/787.a6122939.chunk.js": "/Rasoi-reactApp/static/js/787.a6122939.chunk.js",
+    "index.html": "/Rasoi-reactApp/index.html",
+    "main.7ae601fe.css.map": "/Rasoi-reactApp/static/css/main.7ae601fe.css.map",
+    "main.ce651db2.js.map": "/Rasoi-reactApp/static/js/main.ce651db2.js.map",
+    "787.a6122939.chunk.js.map": "/Rasoi-reactApp/static/js/787.a6122939.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae601fe.css",
+    "static/js/main.ce651db2.js"
+  ]
+}
